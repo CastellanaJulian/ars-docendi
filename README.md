@@ -1,5 +1,9 @@
 # Ars Docendi — Gestión Docente
 
+> 🎓 **Proyecto final de Ingeniería en Informática (UNLaM)**, desarrollado en equipo.
+> Repositorio original: [Ars-Docendi/ars-docendi](https://github.com/Ars-Docendi/ars-docendi).
+> Equipo: [suga-rs](https://github.com/suga-rs) · [Franxx20](https://github.com/Franxx20) · [Ritomii](https://github.com/Ritomii) · [CastellanaJulian](https://github.com/CastellanaJulian) · [RepettoNahuel](https://github.com/RepettoNahuel)
+
 Sistema web para el Departamento de Ingeniería de la UNLaM. Para las reglas de trabajo y el contexto funcional ver [AGENTS.md](AGENTS.md).
 
 > **¿Primera vez en el proyecto?** Leé [ONBOARDING.md](ONBOARDING.md) — explica cómo trabajar con las skills, el flujo de features, y la cheat sheet del día a día.
